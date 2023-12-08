@@ -19,7 +19,7 @@ nltk==3.8.1
 numpy==1.25.2
 packaging==23.1
 pillow==10.0.0
-pytorch-lightning==2.0
+pytorch-lightning==1.9.5
 pyyaml==6.0.1
 regex==2023.8.8
 requests==2.31.0
